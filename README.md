@@ -63,8 +63,6 @@ Scraping using `undetected-chromedriver` (Selenium) works like a robot that mimi
 6. **Handling Complex Interactions**:  
    Some suppliers might require special actions, like logging in or clicking on specific school links. Selenium can handle these by filling in login forms or registering students, so you can access products specific to a school.
 
-In short, Selenium acts like a human web browser user, navigating the supplier's website, gathering product details, and making that data available for analysis or comparison.
-
 ## Directory information
 - `scrapplier`: The python package
 - `data`: All of the data collected and generated during the study
@@ -118,8 +116,6 @@ Quick example of descriptive stastics of the data
 - [X] Give an example of what kind of analyses can be done with the data
 
 ## Limitations of the current approach
-Here's a rephrased version of your points:
-
 - Some suppliers do not clearly indicate whether a product is mandatory or optional for purchase.
 - Accessing certain suppliers' products can be challenging; for example, with Stevensons, you must register your child with a specific school before viewing their products.
 - Supplier information may be outdated, meaning some suppliers may stop providing uniforms for certain schools or begin supplying them.
