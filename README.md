@@ -1,5 +1,5 @@
 # scrapplier
-A python package to scrape school and products information from the supplier website all across the United Kingdom. Scrapplier built on top of `undetected-chromedriver` and works well on dynamic websites. In the current version it supports more than 15 suppliers and can scrape the data from School level to Variant level
+A python package to scrape school and products information from the supplier website all across the United Kingdom. Scrapplier built on top of `undetected-chromedriver` and works well on dynamic websites. In the current version it supports more than 15 suppliers and can scrape the data from School level to Variant level. Scrapplier was created as part of the CTC-31 Hackathon.
 
 ## Installation
 - Open your terminal and create a new environment
